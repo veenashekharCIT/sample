@@ -14,6 +14,10 @@
 		3F7152B321F8499E008A8DBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7152B121F8499E008A8DBA /* LaunchScreen.storyboard */; };
 		3F7152BE21F8499F008A8DBA /* tryGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7152BD21F8499F008A8DBA /* tryGitTests.swift */; };
 		3F7152C921F8499F008A8DBA /* tryGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7152C821F8499F008A8DBA /* tryGitUITests.swift */; };
+		3F7152D721F858C3008A8DBA /* Process1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7152D621F858C3008A8DBA /* Process1.storyboard */; };
+		3F7152D921F858FC008A8DBA /* Process2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7152D821F858FC008A8DBA /* Process2.storyboard */; };
+		3F7152DB21F85928008A8DBA /* Process3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7152DA21F85928008A8DBA /* Process3.storyboard */; };
+		3F7152DD21F8612D008A8DBA /* TabBarProcess1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7152DC21F8612D008A8DBA /* TabBarProcess1.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		3F7152C421F8499F008A8DBA /* tryGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tryGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F7152C821F8499F008A8DBA /* tryGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tryGitUITests.swift; sourceTree = "<group>"; };
 		3F7152CA21F8499F008A8DBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F7152D621F858C3008A8DBA /* Process1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Process1.storyboard; sourceTree = "<group>"; };
+		3F7152D821F858FC008A8DBA /* Process2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Process2.storyboard; sourceTree = "<group>"; };
+		3F7152DA21F85928008A8DBA /* Process3.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Process3.storyboard; sourceTree = "<group>"; };
+		3F7152DC21F8612D008A8DBA /* TabBarProcess1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TabBarProcess1.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +108,10 @@
 				3F7152A821F8499B008A8DBA /* AppDelegate.swift */,
 				3F7152AA21F8499B008A8DBA /* ViewController.swift */,
 				3F7152AC21F8499B008A8DBA /* Main.storyboard */,
+				3F7152DC21F8612D008A8DBA /* TabBarProcess1.storyboard */,
+				3F7152D621F858C3008A8DBA /* Process1.storyboard */,
+				3F7152D821F858FC008A8DBA /* Process2.storyboard */,
+				3F7152DA21F85928008A8DBA /* Process3.storyboard */,
 				3F7152AF21F8499E008A8DBA /* Assets.xcassets */,
 				3F7152B121F8499E008A8DBA /* LaunchScreen.storyboard */,
 				3F7152B421F8499F008A8DBA /* Info.plist */,
@@ -231,6 +243,10 @@
 			files = (
 				3F7152B321F8499E008A8DBA /* LaunchScreen.storyboard in Resources */,
 				3F7152B021F8499E008A8DBA /* Assets.xcassets in Resources */,
+				3F7152DB21F85928008A8DBA /* Process3.storyboard in Resources */,
+				3F7152D921F858FC008A8DBA /* Process2.storyboard in Resources */,
+				3F7152D721F858C3008A8DBA /* Process1.storyboard in Resources */,
+				3F7152DD21F8612D008A8DBA /* TabBarProcess1.storyboard in Resources */,
 				3F7152AE21F8499B008A8DBA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
